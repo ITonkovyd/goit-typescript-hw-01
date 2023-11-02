@@ -1,0 +1,16 @@
+{
+  "name": "testtypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.6",
+    "typescript": "^5.2.2"
+  },
+  "description": ""
+}
